@@ -19,6 +19,8 @@ class CustomPage {
     });
   }
 
+//leonardo comment to push to travis
+
   constructor(page) {
     this.page = page;
   }
